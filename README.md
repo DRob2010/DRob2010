@@ -1,13 +1,13 @@
 ## Hi there 👋
 My name is Dawson Robinson, I am a video game and level designer working on my degree in computer science.
-This read me is currently a work in progress, but please feel free to look around anyway 
+This portfolio is currently a work in progress, I'm still trying to pull together and orginze my school project. Please feel free to look around anyway 
 
 ## Projects:
 * Project FullPartyRPG
 * Project Last Hero
 * All-In-One Calculator
 * Keys Unlock Things?
-    * Google Play Store (https://play.google.com/store/apps/details?id=com.lostcatsgames.keysunlockthings)
+    * Found on the Google Play Store (https://play.google.com/store/apps/details?id=com.lostcatsgames.keysunlockthings)
 * H3lix Protoc0l (early version)
 * Terminal Escape Room
 * PyFunctionDungeon
